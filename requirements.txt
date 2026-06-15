@@ -1,0 +1,14 @@
+destinelab
+pystac-client
+python-dotenv
+requests
+lxml
+earthkit-data
+polytope-client
+covjsonkit
+xarray
+netCDF4
+numpy
+pandas
+matplotlib
+cartopy

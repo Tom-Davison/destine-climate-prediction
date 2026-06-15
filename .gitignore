@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/*
+!data/.gitkeep
+
+# local writing, not part of the demo
+article/
+destine-climate-risk-article.md
+NOTES.md
